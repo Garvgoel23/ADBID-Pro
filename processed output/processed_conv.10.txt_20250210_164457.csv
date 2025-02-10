@@ -1,0 +1,151 @@
+BidID,Timestamp,Region,City,Adexchange,Biddingprice,Payingprice
+abdc209a266ef736792a4567193f3909,2013-06-10 12:21:18,3,Vh5hO7mTLTSZGBn,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 718; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),,146
+e1f32b3597b689e07c8c52a2e0991a77,2013-06-10 14:03:34,3,VhTH1aFbD4B8wOb,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,216
+f717bebf9f87557c49ba13defacf95cf,2013-06-10 16:33:50,3,VhKpZip4PI12XZl,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.52 Safari/537.17",,80
+92f3d25e7733068939bb0ab0dfe21bbb,2013-06-10 22:53:15,3,Vh5h1enxLT9Ctd8,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SE 2.X MetaSr 1.0),,94
+b8afa99e78b4ed376fae202a3de0d333,2013-06-10 22:53:55,3,Vh5h1en832FPXb2,Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C),,79
+47beab9de590b08fc02d31eb423768bb,2013-06-10 22:54:08,3,Vh5hZApAONuPwGL,"Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/26.0.1410.53 Mobile/10B141 Safari/8536.25",,393
+e68ace07340afafa49cad094b4429796,2013-06-10 22:54:06,3,Vh5h1ep4OUTPDMb,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17",,55
+c39c15975053a47589a3cd3de07f568a,2013-06-10 22:54:13,3,Vh5h1e2xOqMP3gj,"Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) MQQBrowser/2.8.1 Mobile/10B141 Safari/7534.48.3",,1
+de8d5e75bc44d6ff1721c84de2ff131f,2013-06-10 22:54:52,3,Vh5h1epV3tqT3GR,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 718; Shuame),,40
+c1ddd391c27560c550b1f169260bc9c7,2013-06-10 22:55:02,3,Vh5h1enIP4cfDMk,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 734; .NET CLR 2.0.50727),,308
+a5b5f82456a3d9f99f0debb56dd263ff,2013-06-10 22:55:05,3,Vh5h1eTEO9cytgC,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,183
+3089c2d45241aacd25caea130b1de9ca,2013-06-10 22:55:19,3,Vh5h1eCyLZ5PBVL,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176",,40
+3089c2d45241aacd25caea130b1de9ca,2013-06-10 22:55:19,3,Vh5h1eCyLZ5PBVL,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176",,40
+3089c2d45241aacd25caea130b1de9ca,2013-06-10 22:55:19,3,Vh5h1edAOyM2QfE,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.8;baidu Transcoder) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729),,40
+1c7bd3ed66008d70277ab3c3b2b79927,2013-06-10 22:55:15,3,VhCSPxk8PyFvqMR,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 718; BIDUBrowser 2.x),,216
+6eb4bf5e698c85ebaf7fcc267b8086e1,2013-06-10 22:55:16,3,Vh5h1eT8Pqfhqmc,"Mozilla/5.0(iPad; U;CPU OS 5_1 like Mac OS X; zh-CN; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.1.280 U3/0.8.0 Safari/7543.48.3",,80
+3089c2d45241aacd25caea130b1de9ca,2013-06-10 22:55:19,3,Vh5h1edpD4dHQOC,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.8;baidu Transcoder) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729),,40
+a61e329667b3c92f467119b9d4713129,2013-06-10 22:55:30,3,VhdVZvMR3U1P3CE,"Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B206",,164
+c60904cdf7ad8eb08c6eea7a9d8c9978,2013-06-10 22:55:52,3,VhkxOapxLel8lsn,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; CNCDialer),,164
+1b675f9e7135658f91db7383aea56878,2013-06-10 22:55:28,3,Z0K2O5TYO4xoBmb,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; KB974489),,146
+6b978245c9cd0684eeb6426a9fab425a,2013-06-10 22:55:51,3,Vh1PP6KL3cTZFmC,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),,1
+4282a033033970a88147879348cbfc70,2013-06-10 22:55:34,3,Vh5h1ed3Dtf9kOz,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 731; qdesk 2.4.1264.203; QDesk; CIBA),,276
+fbe90df546b6b3519e75a89757e56e00,2013-06-10 22:55:43,3,Vh5h1edkPQMHGCk,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0),,276
+1b8aa9d1b145778e31e5b4164f93d3ee,2013-06-10 22:56:14,3,Vh5h1eTmP2nytda,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 718; .NET CLR 2.0.50727),,80
+bb544e0c3db27d1f032c47cec4af0385,2013-06-10 22:55:45,3,Vh5h1eToDULIefj,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,3
+4d1a4cd41682fc8bfc028fee2d291380,2013-06-10 22:56:04,3,VhK_PJL4Dy2hJmf,"Mozilla/5.0 AppleCoreMedia/1.0.0.8J2 (iPad; U; CPU OS 4_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5",,374
+3487fa906c28784547a7911723b945bd,2013-06-10 22:56:28,3,Vh5h1edYOHFPjBk,"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; @:D[Njc,N2AK69OaCyp<I?3.8ysvCz4`vNr6,D)",,374
+9bea9cc6726fc466764c0bc79cbf6ca4,2013-06-10 22:56:03,3,Vh5h1edSPZMPjMb,"Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) MQQBrowser/2.8.1 Mobile/10B146 Safari/7534.48.3",,276
+6fc9505f04dee86ceeca6ae253ca9414,2013-06-10 22:56:06,3,VhLxLuptL6T6FVE,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 708),,201
+8e663619c25251e6a8d05d1929f32597,2013-06-10 22:56:37,3,VhpAP61k36FNGI2,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 718; .NET CLR 2.0.50727),,298
+13fe071c3898044ba1e055b20435e45d,2013-06-10 22:56:19,3,VhnEVaNDLZCsBZb,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,79
+9bea9cc6726fc466764c0bc79cbf6ca4,2013-06-10 22:56:03,3,Vh5h1edSPZMPjMb,"Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) MQQBrowser/2.8.1 Mobile/10B146 Safari/7534.48.3",,276
+3487fa906c28784547a7911723b945bd,2013-06-10 22:56:28,3,Vh5h1edYOHFPjBk,"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; @:D[Njc,N2AK69OaCyp<I?3.8ysvCz4`vNr6,D)",,374
+1f52d107854f8cdc115d4aa6217aa9aa,2013-06-10 22:56:21,3,Vh5h1e16D9cfeYk,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25",,1
+6fc9505f04dee86ceeca6ae253ca9414,2013-06-10 22:56:06,3,VhLxLuptL6T6FVE,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 708),,201
+9bea9cc6726fc466764c0bc79cbf6ca4,2013-06-10 22:56:03,3,Vh5h1edSPZMPjMb,"Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) MQQBrowser/2.8.1 Mobile/10B146 Safari/7534.48.3",,276
+f56011779308961295705a6d41aea109,2013-06-10 22:56:46,3,Vh1O1JT33NdTe-j,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3",,276
+7019570df9e4ac91b04cc0e6c2a20b74,2013-06-10 22:56:45,3,VhkE13NtDe1cFGB,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; LBBROWSER),,0
+3a0bf729f3065d29ea943aea45ac4f52,2013-06-10 22:56:45,3,Vh5h1e1tD8dHjMR,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),,106
+9fb85d4adfe3a1fedef3c2b822de3fc,2013-06-10 22:56:51,3,Vh5h1e1iO8nygbB,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; SpamBlockerUtility 4.7.7; CIBA),,80
+6fc9505f04dee86ceeca6ae253ca9414,2013-06-10 22:56:06,3,VhLxLuptL6T6FVE,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 708),,201
+f53f851c280127ba6922fac5e0d912a,2013-06-10 22:56:42,3,Vh5h1e1GPHmPwfl,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329",,106
+9bea9cc6726fc466764c0bc79cbf6ca4,2013-06-10 22:56:03,3,Vh5h1edSPZMPjMb,"Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) MQQBrowser/2.8.1 Mobile/10B146 Safari/7534.48.3",,276
+f53f851c280127ba6922fac5e0d912a,2013-06-10 22:56:42,3,Vh5h1e1GPHmPwfl,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329",,106
+f56011779308961295705a6d41aea109,2013-06-10 22:56:46,3,Vh1O1JT33NdTe-j,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3",,276
+aa92ba4cf50cd3c68abc532e05cc1acf,2013-06-10 22:56:50,3,Vh5hPipqPNMcwC2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,3
+aa92ba4cf50cd3c68abc532e05cc1acf,2013-06-10 22:56:50,3,Vh5hPipqPNMcwC2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,3
+92ca82673fc833431b5ae429e56f9ac2,2013-06-10 22:57:14,3,Vh5h1e1m32q2JMk,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),,216
+f56011779308961295705a6d41aea109,2013-06-10 22:56:46,3,Vh1O1JT33NdTe-j,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3",,276
+1e478e09e6b48611310e5e48222af9e9,2013-06-10 22:57:17,3,VhkyZDKjLq9vQGE,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,3
+d1655f520bcd522b415670ee7730084b,2013-06-10 22:57:06,3,Vhd2ZiLy3QFZlGL,"Mozilla/5.0(iPad; U;CPU OS 6_1 like Mac OS X; zh-CN; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3",,134
+f56011779308961295705a6d41aea109,2013-06-10 22:56:46,3,Vh1O1JT33NdTe-j,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3",,276
+c0a5ae9b32ecaa3dfc404419ada14db7,2013-06-10 22:57:21,3,Vhp61vKuOoFHgfj,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17",,134
+21799bb8b315265d88f9100bc808e721,2013-06-10 22:57:16,3,VhTzZDqb3vjsMsl,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,201
+ed45e75cce6fb8b903d158594cc98389,2013-06-10 22:57:23,3,Vh5h1e5ZPTuZ3ME,"Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3",,124
+9f8f16e0856871c86b107a91d7a4acb7,2013-06-10 22:57:43,3,Vhkx1388Ol2IaOl,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),,333
+5e960bffaac1924ad771d2fafdeaac42,2013-06-10 22:57:43,3,VhTT1pN4PZMdjBk,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,106
+a912280e85f95d05bed50141c027de21,2013-06-10 23:23:16,3,Vh5h1e5e3vlsDsE,"Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3",,333
+cd0ed40d31791803ff6af46fc8e70d3a,2013-06-10 22:57:55,3,Vh5h1e5APoa4DBk,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),,80
+b0fadc630aeb31e7cb0251f84c0afb3d,2013-06-10 22:57:48,3,Vh2r1ul7O9BWXGj,"Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B141",,124
+5551015b3f1b3bdb9f0eb06fcae5585c,2013-06-10 22:58:34,3,Vh5h1epLPTsZFWb,"Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10",,183
+89f933b7ff64aabb061ac237ff6aa43e,2013-06-10 22:57:59,3,VhT11ekrDNEylfL,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,275
+f52402da7bff43faefd53cbc0c73d61c,2013-06-10 22:58:02,3,VhLxPpn83QT_Fsa,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SE 2.X MetaSr 1.0),,146
+96c024b685651bac7fcd0c7e354ca989,2013-06-10 22:58:12,3,VhkyLxaSDok8Gfa,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,80
+86696a755fe57f0d349c9ad96c6a0f25,2013-06-10 22:58:13,3,Vh5h1eTaOI5dqCk,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.84 Safari/537.22 BIDUPlayerBrowser/2.x",,55
+16e36dacb7d5fcb4144d090a4a0ae6c7,2013-06-10 22:58:38,3,Vh5h1el9PTMdt-b,"Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176",,3
+5551015b3f1b3bdb9f0eb06fcae5585c,2013-06-10 22:58:34,3,Vh5h1epLPTsZFWb,"Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10",,183
+109791af4580c274a6e9ee0cf8956492,2013-06-10 22:58:27,3,VhdHPuR93TSTQmC,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30),,1
+7eb295d0644300651d181917507b0149,2013-06-10 22:58:57,3,Vh16PD5YOHSCDQL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 718; GTB7.4),,308
+7eb295d0644300651d181917507b0149,2013-06-10 22:58:57,3,Vh16PD5YOHSCDQL,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 718; GTB7.4),,308
+fb05be4b8eaebdd0258307fe24e5e81a,2013-06-10 22:59:09,3,Vh5h1e5nOZTZDWB,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,201
+c02e737a6b8ad4279ea26e23737dad05,2013-06-10 22:59:14,3,Z0THPrdJL6Moldj,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MAAU),,1
+6e1b4ae71caa8961de755da26d8a1be6,2013-06-10 22:59:10,3,VhkEP79r3eTcFGz,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,80
+f2b95f07cfae2903eee371baf9c31556,2013-06-10 22:59:39,3,ZYBy1pN8PZlxJ4,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),,333
+10abb8b8dc4cff8e1edb89bcd96a55a1,2013-06-10 22:59:32,3,VhCxZi9DPvL4DGB,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; 4399Box.560; 4399Box.560),,333
+64c7ace68ed76c2afea3eed221826e75,2013-06-10 22:59:51,3,Vh13Z61TLeaWGZC,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,3
+462e407860c85084e2dde4cba4187cab,2013-06-10 23:00:02,3,Vh5h1eMkLldO3Vk,"Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25",,183
+188a2ab08fa897ce5e5b088bed394c9b,2013-06-10 22:59:56,3,VhkyLkFdOZdVBQl,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2),,374
+a4a4673c8863c5dca09acfdcb4c62c1d,2013-06-10 23:00:08,3,Vh5h1eM8PNx2GWC,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; KB974489; SE 2.X MetaSr 1.0),,201
+71adb73e3ba35946255409c72e2121c3,2013-06-10 23:00:15,3,Vhk7LuqkO6TTG-c,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),,216
+97a61461b50f321a7bb218fee2245352,2013-06-10 23:00:24,3,Vh1DC58rPH1Z3bl,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; QQDownload 718),,80
+458adca302b15756896c134bb546ad86,2013-06-10 23:00:28,3,Vhd1PR2xP6d_DmR,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 734; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; InfoPath.1; InfoPath.3; .NET4.0E),,94
+8fa31a6d54fb95388e56fd584fd2e2d,2013-06-10 23:00:24,3,VhkxO32yLtsZgmC,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,333
+8fa31a6d54fb95388e56fd584fd2e2d,2013-06-10 23:00:24,3,VhkxO32yLtsZgmC,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,333
+7f7199425b48225f44dc3b137ecb5ff1,2013-06-10 23:01:29,3,VhT3CinxO6pc3hE,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.22 (KHTML, like Gecko) Maxthon/4.0.4.3000 Chrome/25.0.1364.99 Safari/537.22",,80
+afd1cbec3e93aefdaa56a9a02f06630d,2013-06-10 23:01:30,3,Vh5h1JpPD4cIJ-f,"Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329",,106
+4ccbf183e9e5b76ac5db5c6abd721043,2013-06-10 23:01:42,3,Vh5h1kkxDykyDdR,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; Media Center PC 6.0),,94
+4b9faf1737452f4bb8372481ab2603c7,2013-06-10 23:02:08,3,VhkSL7FDLqKTaVl,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17",,183
+b65468dc20f7c2ebb5a1d23368e6d7f1,2013-06-10 23:02:25,3,VhkrLeqyO9NLa-8,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,106
+b65468dc20f7c2ebb5a1d23368e6d7f1,2013-06-10 23:02:25,3,VhkrLeqyO9NLa-8,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,106
+6dac47a914a55095811ca92f9e73ce85,2013-06-10 23:02:24,3,Z0T6C5mOP2lfXWj,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),,80
+d6ac657d71957318e48a10b0a7b3d5a6,2013-06-10 23:02:23,3,Vh1V1pFdOTKOBOC,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SE 2.X MetaSr 1.0),,146
+ed8b302229698b9daadea3a4fcf36857,2013-06-10 23:02:56,3,Vh5h1JTwLZn9DVk,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,146
+a04981ff5cde0c0459dbfe6e6875c657,2013-06-10 23:03:48,3,VhdVPauGPe1UGIc,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,216
+b37db4c7c354c783a526ef403b69b0a7,2013-06-10 23:03:04,3,Vh5h1JTyOqlfD-B,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),,134
+b37db4c7c354c783a526ef403b69b0a7,2013-06-10 23:03:04,3,Vh5h1JdVP4F2XBa,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),,134
+a44daa56c98f2709c15469eafa793789,2013-06-10 23:04:42,3,Vh1z1J5LLqaWgYB,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; BVIE 1.2.1.81),,238
+8cf0321567b649dc1f6e879b394c2872,2013-06-10 23:05:19,3,Vh1iPDpOLt88Fmz,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; Shuame),,3
+f2666140e81766c9542f0e954fc883e9,2013-06-10 23:05:09,3,Vh5h1pFJOqssu-E,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,164
+e5138b100985a2107e0ad6f017e1ccb0,2013-06-10 23:06:08,3,Vh5h1J5tLHjIJCl,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,276
+e5138b100985a2107e0ad6f017e1ccb0,2013-06-10 23:06:08,3,Vh5h1J5tLHjIJCl,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,276
+e5138b100985a2107e0ad6f017e1ccb0,2013-06-10 23:06:08,3,Vh5h1J5tLHjIJCl,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,276
+8e1c7efa3624908d3d5d2a96cc0b7190,2013-06-10 23:06:20,3,Vh13PRC4LQb4DCC,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),,298
+8e1c7efa3624908d3d5d2a96cc0b7190,2013-06-10 23:06:20,3,Vh13PRC4LQb4DCC,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),,298
+6e4f2404e92fa4268ba6e56bf3cabe2e,2013-06-10 23:07:04,3,Vh5h1eMV3cNZMWB,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; QQPinyin 730; QQDownload 716; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),,106
+6e4f2404e92fa4268ba6e56bf3cabe2e,2013-06-10 23:07:04,3,Vh5h1eMV3cNZMWB,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; QQPinyin 730; QQDownload 716; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),,106
+4a09af860efd47c092ca48f0fe22e6be,2013-06-10 23:07:03,3,VhdOLRs2LZb8aYB,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; CIBA; LBBROWSER),,216
+255bbec6a3fbf97c376df4203541d9f3,2013-06-10 23:08:53,3,Vh1C13xHPlK6XZC,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; QQDownload 702;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; InfoPath.3; SE 2.X MetaSr 1.0),,80
+332d5a4616271cb12689904fb715380,2013-06-10 23:12:38,3,Vh1pLku3PT9CgMl,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),,298
+86ab317bcf8101cd2c4e92884126ffff,2013-06-10 23:12:28,3,VhkY13uHDQd6qsn,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0),,106
+37cab07b0a3243056890eff15220b75b,2013-06-10 23:12:47,3,Vh5h1wduD9ahGmL,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17",,216
+6c09e426f0c574209b5d61e85e1aae17,2013-06-10 23:13:42,3,VhLEPpT5LQsceQl,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,275
+3fdd5391a05bf979059022f346dcccd4,2013-06-10 23:13:57,3,Vh5h1w1w32cWDGf,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; KB974488),,124
+e839881a34cb1d3ecd0b708bf2aae9b4,2013-06-10 23:24:30,3,Vh5h1w1UO4u6FWk,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),,15
+58ff888cd5ff147c8931e1737fbef33c,2013-06-10 23:14:28,3,Vhk7O5MZ3tBfQgz,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; LBBROWSER),,106
+dc4bf69c83d71087cd624c5c052e62be,2013-06-10 23:14:34,3,VhKn1AuZLQf4Bol,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; SE 2.X MetaSr 1.0),,94
+92f77d3c1313eb358254f8400e7b1931,2013-06-10 23:15:06,3,VhTVLn5nLHqVFdl,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,79
+6e43bf443ad49afebc80017ad59d53d4,2013-06-10 23:16:20,3,VhkS1iSd36ddqmB,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,164
+c4f4e86872abe0521f8680e251bb3c32,2013-06-10 23:16:35,3,VhpZ15T4DeMZadb,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,164
+b289a7e2874c6d45a4b9f1f953dc4255,2013-06-10 23:18:07,3,Vh5h1wByLTjIDCl,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; CMNTDF; .NET4.0C),,80
+7594cf98e7d463c5e01c6dce9a31c06,2013-06-10 23:17:39,3,VhpC1wqVPTf4Q-E,"Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3",,1
+1892994a20e7db53ffefc4d5f9b4d89c,2013-06-10 23:17:36,3,Vh5h1wFt32KVDdB,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),,80
+b289a7e2874c6d45a4b9f1f953dc4255,2013-06-10 23:18:07,3,Vh5h1wByLTjIDCl,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; CMNTDF; .NET4.0C),,80
+cbe0f33f7bffba372ce534c96f1ac1ff,2013-06-10 23:18:21,3,Z0pH1nqiONKvjsE,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 734),,134
+b289a7e2874c6d45a4b9f1f953dc4255,2013-06-10 23:18:07,3,Vh5h1wByLTjIDCl,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; CMNTDF; .NET4.0C),,80
+5c9c675e078f6a00229ecc20ef857303,2013-06-10 23:19:38,3,VhnR1D2RLtLfgsn,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,15
+3f156037c1e4f44c31476b5ab5779bb3,2013-06-10 23:20:12,3,ZYFdLkK1LlmNQVb,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,164
+cd8edb977282ad91679f1e8d40aed9b4,2013-06-10 23:26:08,3,Vh1d1AFUOIdcjo2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 718; BIDUBrowser 2.x),,164
+e01c85c9ff622d71adb88bb592060c55,2013-06-10 23:21:24,3,Vh5h15TwPta8qdR,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),,2
+a912280e85f95d05bed50141c027de21,2013-06-10 23:23:16,3,Vh5h1e5e3vlsDsE,"Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3",,333
+65adf06430fa6c3695c3874a59fe9069,2013-06-10 23:22:22,3,Vh1DV5SODqFcJGE,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SV1; QQDownload 718),,94
+f24ad5bef6ba76c84561f7c3ffe50102,2013-06-10 23:22:37,3,Vhk7O5TSOc2hqOB,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),,124
+a912280e85f95d05bed50141c027de21,2013-06-10 23:23:16,3,Vh5h1e5e3vlsDsE,"Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3",,333
+e839881a34cb1d3ecd0b708bf2aae9b4,2013-06-10 23:24:30,3,Vh5h1w1UO4u6FWk,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),,15
+8953061df024f296f945e765514db3ba,2013-06-10 23:25:16,3,Vh5h1wSQ32MZ3hl,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0),,80
+1957e6080248925fc76c5073bb4f3276,2013-06-10 23:28:29,3,Vh5h15lSD9MvjoB,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; qihu theworld),,333
+cce64a7079d91b1671078c528d1232dd,2013-06-10 23:29:19,3,VhThZikRL6McXIL,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1",,80
+45f1f7ed31e8ac5b61590c5d25f9cc17,2013-06-10 23:29:41,3,Vh1OPwx33q9cXQa,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1",,276
+fb8c9116a734a40f37815f6ad13aa762,2013-06-10 23:31:25,3,VhkY1JqmD45_Qdz,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),,164
+41d63c1552ab488f672c2e24cf347adb,2013-06-10 23:34:15,3,Vh5h13b9PNx6lhz,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 718; .NET4.0E; .NET4.0C),,1
+fdee9c412243832662b07ae9d0ee7a25,2013-06-10 23:34:11,3,Vh5h1eMj3cnsGmL,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0),,146
+21ab705a52410418960e033790e564dc,2013-06-10 23:34:29,3,Z0TKC5MrPZN6QgC,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; qihu theworld),,1
+2f0d7e0d24f82c432ac808594211c91,2013-06-10 23:35:51,3,Vh1P1puQPNksGMf,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; KB974488),,183
+f21983a2d3871426e74d1cc1a735c47,2013-06-10 23:37:32,3,VhdCCpS2P85UaOE,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),,80
+ef1cb119fd20a6e31761e74b0443c1d3,2013-06-10 23:38:10,3,VhkSPxSqOonItdk,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322),,333
+2b6894e7ab9e0c686ed9c7924b4ba4d7,2013-06-10 23:40:21,3,Vh111p5iO8nyqbc,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; LBBROWSER),,80
+bbfd531185f0093ecbff927095371e52,2013-06-10 23:40:23,3,VhnSLx5PLHKvjCc,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0),,1
+4a1b865b22892d774ea1c4a64c1d71ca,2013-06-10 23:42:02,3,Vh5h1eL83TdVgob,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),,3
+44978f9ff94ee7aabdbfb7a24a5447aa,2013-06-10 23:42:53,3,VhTDV5NePUufBZC,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),,393
+3487fa906c28784547a7911723b945bd,2013-06-10 22:56:28,3,Vh5h1edYOHFPjBk,"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; @:D[Njc,N2AK69OaCyp<I?3.8ysvCz4`vNr6,D)",,374
