@@ -9,7 +9,8 @@ from typing import List, Dict, Optional
 import logging
 from datetime import datetime
 import gc
-from DataProcessor import DataProcessor  # Import the optimized data processor
+from BidRequest import BidRequest
+from data_processor import DataProcessor  # Import the optimized data processor
 
 class BidModel:
     def __init__(
