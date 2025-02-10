@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from BidRequest import BidRequest
 from Bid import Bid
 from model import BidModel
-from data_processor import load_preprocessed_data
+from data_processor import DataProcessor
 
 app = Flask(__name__)
 
@@ -57,7 +57,7 @@ def process_data():
     #Loads and processes historical bid logs.
 
     try:
-        processed_data = load_preprocessed_data()
+        processed_data = DataProcessor()
         return jsonify({"message": "Data processed successfully", "records": len(processed_data)}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
