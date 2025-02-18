@@ -1,67 +1,99 @@
 from flask import Flask, request, jsonify
-from BidRequest import BidRequest
-from Bid import Bid
+from typing import Dict, Any
 from model import BidModel
-from data_processor import DataProcessor
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 app = Flask(__name__)
 
 # Initialize bidding system and model
-bidder = Bid()
 bid_model = BidModel()
 
 # Load the trained model at startup
-bid_model.load_model()
+if not bid_model.load_model():
+    logging.error("Failed to load model at startup!")
 
+def transform_request(data: Dict[str, Any]) -> Dict[str, Any]:
+    """Transform the incoming request data to match model features."""
+    return {
+        "Region": str(data.get("region", "Unknown")),
+        "City": str(data.get("city", "Unknown")),
+        "Adexchange": str(data.get("adexchange", "Unknown")),
+        "Adslotfloorprice": float(data.get("adSlotFloorPrice", 0.0))
+    }
 
 @app.route("/health", methods=["GET"])
 def health_check():
-    #Simple health check endpoint.
-
-    return jsonify({"status": "Server is running"}), 200
-
+    """Simple health check endpoint."""
+    model_status = "loaded" if bid_model.model is not None else "not loaded"
+    return jsonify({
+        "status": "Server is running",
+        "model_status": model_status
+    }), 200
 
 @app.route("/predict_bid", methods=["POST"])
 def predict_bid():
-    #Receives a bid request in JSON format and returns the bid price.
-
+    """Receives a bid request in JSON format and returns the bid price."""
     try:
         # Parse JSON request
         data = request.json
+        if not data:
+            return jsonify({"error": "No data provided"}), 400
 
-        # Create a BidRequest object from JSON
-        bid_request = BidRequest()
-        bid_request.adSlotWidth = data.get("adSlotWidth", 300)
-        bid_request.adSlotHeight = data.get("adSlotHeight", 250)
-        bid_request.adSlotFloorPrice = data.get("adSlotFloorPrice", 200)
-        bid_request.advertiserId = data.get("advertiserId", 1458)
-        bid_request.region = data.get("region", 2)
+        logging.info(f"Received bid request: {data}")
 
-        # Get bid price (Rule-based or ML-based)
-        bid_price_rule_based = bidder.getBidPrice(bid_request)
-        bid_price_ml = bid_model.predict_bid(bid_request)
+        # Transform request data to match model features
+        try:
+            model_input = transform_request(data)
+        except (ValueError, TypeError) as e:
+            return jsonify({"error": f"Invalid input data: {str(e)}"}), 400
 
-        response = {
-            "rule_based_bid": bid_price_rule_based,
-            "ml_predicted_bid": bid_price_ml
-        }
+        # Get ML-based bid prediction
+        try:
+            bid_price_ml = bid_model.predict_bid(model_input)
+            
+            response = {
+                "predicted_bid": round(bid_price_ml, 2),
+                "currency": "USD",
+                "model_version": "xgboost_v1"
+            }
 
-        return jsonify(response), 200
+            logging.info(f"Prediction successful: {response}")
+            return jsonify(response), 200
+
+        except Exception as e:
+            logging.error(f"Prediction error: {str(e)}")
+            return jsonify({"error": "Model prediction failed", "details": str(e)}), 500
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        logging.error(f"Request processing error: {str(e)}")
+        return jsonify({"error": "Internal server error", "details": str(e)}), 500
 
-
-@app.route("/process_data", methods=["GET"])
-def process_data():
-    #Loads and processes historical bid logs.
-
+@app.route("/model/reload", methods=["POST"])
+def reload_model():
+    """Endpoint to reload the model from disk."""
     try:
-        processed_data = DataProcessor()
-        return jsonify({"message": "Data processed successfully", "records": len(processed_data)}), 200
+        success = bid_model.load_model()
+        if success:
+            return jsonify({"message": "Model reloaded successfully"}), 200
+        else:
+            return jsonify({"error": "Failed to reload model"}), 500
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"error": f"Error reloading model: {str(e)}"}), 500
 
+@app.errorhandler(404)
+def not_found(error):
+    return jsonify({"error": "Not found"}), 404
+
+@app.errorhandler(405)
+def method_not_allowed(error):
+    return jsonify({"error": "Method not allowed"}), 405
+
+@app.errorhandler(500)
+def internal_server_error(error):
+    return jsonify({"error": "Internal server error"}), 500
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
