@@ -139,7 +139,6 @@ def predict_bid():
             response = {
                 "predicted_bid": round(bid_price_ml, 2),
                 "currency": "USD",
-                "model_version": "xgboost_v1",
                 "timestamp": datetime.now().isoformat(),
                 "request_features": {
                     k: str(v) if isinstance(v, (np.int64, np.float64)) else v 
