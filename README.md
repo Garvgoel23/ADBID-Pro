@@ -1,14 +1,3 @@
-# RTB-HACKATHON
-
-## Team Information
-
-**Team Name:** Innowave
-
-**Team Members:**
-- Garv Goel
-- Keshav Sharma
-- Kush Aheer
-- Naveen Verma
 
 ## Instructions to Run the Code
 
